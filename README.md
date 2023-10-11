@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sina-Ghanizadeh
-- 👀 I’m interested in C# .Net , .Net Core
+- 👀 I’m interested in C# .Net & Flutter
 
 
 <!---
